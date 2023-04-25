@@ -14,7 +14,14 @@
     <body>
         <h1>Hola mi__jhoi contacto</h1>
         <ul>
-            <p>Como tener cansio</p>
+            <p>No estar cansado</p>
+            <%@include file="menu.jsp" %>%>
+            <h2>title 1</h2>
+            <h2>title 2</h2>
+            <h2>title 3</h2>
+            <h2>title 4</h2>
+            <h2>title 5</h2>
+            <h2>title 6</h2>
         </ul>
 
     </body>
